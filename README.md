@@ -8,6 +8,7 @@ The real-time database and Notion-style editor make this a powerful platform for
 ![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/39a5f7b6-2366-4d70-8878-5820dc5873ab)
 ![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/45808127-7194-47af-ae40-48c1f3e06549)
 ![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/32a3f2d3-9771-4876-b085-e678d1a72ad3)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/8d7e25fe-b9aa-4657-87b0-30e31c2bfb2d)
 
 
 Key Features:
