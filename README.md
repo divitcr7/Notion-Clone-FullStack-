@@ -1,9 +1,14 @@
 # A FullStack Notion Clone!
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
-
-
 The real-time database and Notion-style editor make this a powerful platform for organizing information and collaborating with others. Both light and dark modes coupled with full mobile responsiveness provide an accessible interface. Robust functionality like infinite children documents, file management, and authentication enable complex content structuring and access control. Design flourishes such as icons, an expandable sidebar, and cover images make the experience more visually engaging. Publishing notes to the web and creating landing pages facilitate sharing knowledge publicly. Overall, this is a feature-rich system for crafting beautiful, structured content while maintaining usability across devices. The ability to recover deleted files also provides a safety net for accidental data loss.
+
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/701c944a-64f5-42f8-8564-bbbcb4a47b8c)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/6f039fa6-be6f-4122-ad8d-4d146ea364d2)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/e569944f-11ed-4b27-bf89-39c4f6925962)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/39a5f7b6-2366-4d70-8878-5820dc5873ab)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/45808127-7194-47af-ae40-48c1f3e06549)
+![image](https://github.com/divitcr7/Notion-Clone-FullStack-/assets/67183559/32a3f2d3-9771-4876-b085-e678d1a72ad3)
+
 
 Key Features:
 
